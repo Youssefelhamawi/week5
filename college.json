@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "image": "haigazian.jpg",
+        "name": "Haigazian University",
+        "program": "Management",
+        "type":"AA",
+        "year": "2014"
+    },
+    {
+        "id": 1,
+        "image": "metro.jpg",
+        "name": "Metropolitan State University",
+        "program": "Organizational Development",
+        "type":"BA",
+        "year": 2020
+
+    },
+    {
+        "id": 1,
+        "image": "boston.jpg",
+        "name": "Boston University",
+        "program": "Software Development",
+        "type":"MS",
+        "year": 2023
+
+    }
+
+    ]
